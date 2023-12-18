@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/@kathisai065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kathisai065" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saireddy17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saireddy17" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kathisai65?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kathisai65?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="www.facebook.com/kathisai65?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kathisai65?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_reddy_kathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_reddy_kathi" height="30" width="40" /></a>
 </p>
 
