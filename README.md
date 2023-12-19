@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saireddy17&label=Profile%20views&color=0e75b6&style=flat" alt="saireddy17" /> </p>
 
-- 🌱 I’m currently learning **Full Stack JAVA Developer , UI Technologie , Oracles Notes, Testing**
+- 🌍  I'm based in india
 
-- 💬 Ask me about **JAVA,Testing,SQl**
+- 🌱 I’m currently learning **Full Stack JAVA Developer , UI Technologie , Oracles , Testing**
 
 - 📫 How to reach me **Saireddykathi65@gmail.com**
+  
+- 🤝  I'm open to collaborating on java,Servlet,JSP,UI Technologie,Oracle,Testing.
+  
+- ⚡  exploring new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
